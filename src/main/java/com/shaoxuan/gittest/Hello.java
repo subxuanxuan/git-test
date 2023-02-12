@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("Hello Git");
         System.out.println("你好啊");
         System.out.println("...");
+        System.out.println("我不好");
     }
 }
