@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("你好啊");
         System.out.println("...");
         System.out.println("你好");
+        System.out.println("我不好");
     }
 }
